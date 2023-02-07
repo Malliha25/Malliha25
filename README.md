@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Malliha25
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning to do projects using deep learning networks
 - 💞️ I’m looking to collaborate on best companies
 - 📫 How to reach me mallihaasra9@gmail.com
 
